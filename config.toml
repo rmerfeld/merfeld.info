@@ -1,4 +1,4 @@
-baseURL = "http://merfeld.info/"
+baseURL = "https://merfeld.info/"
 title = "@merfeld.info"
 theme = "hugo-coder"
 languagecode = "en"
