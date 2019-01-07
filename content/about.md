@@ -3,8 +3,6 @@ title = "About"
 slug = "about"
 +++
 
-The blogs are intended to serve more as a personal notebook about my interests (tech and outdoor).
-
-It will be easier to leave the "outdoor" area in German, as this is my native language.
+The blogs are intended to serve more ore less as a personal notebook about my interests (technical stuff and maybe cycling or hiking).
 
 Thanks for reading ...

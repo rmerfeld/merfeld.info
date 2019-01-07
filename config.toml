@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
 
     author = "Reinhard Merfeld"
-    info = "full stack developer and outdoor enthusiast"
+    info = "Full Stack Developer"
     description = "Reinhard Merfeld's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -35,35 +35,35 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = []
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fab fa-github fa-sm"
     weight = 1
     url = "https://github.com/rmerfeld/"
 [[params.social]]
     name = "Instagram"
-    icon = "fab fa-instagram fa-2x"
+    icon = "fab fa-instagram fa-sm"
     weight = 2
     url = "https://www.instagram.com/merfeldo/"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fab fa-twitter fa-sm"
     weight = 3
     url = "https://twitter.com/merfeldo/"
 [[params.social]]
     name = "Email"
-    icon = "fas fa-envelope fa-2x"
+    icon = "fas fa-envelope fa-sm"
     weight = 4
     url = "mailto:reinhard@merfeld.info/"
 
 # Menu links
 [[menu.main]]
-    name = "blog"
+    name = "Blog"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "about"
+    name = "About"
     weight = 2
     url = "/about/"
