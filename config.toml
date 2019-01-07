@@ -1,5 +1,5 @@
 baseURL = "http://merfeld.info/"
-title = "@merfeld.info"
+title = "Reinhard Merfeld"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
 
     author = "Reinhard Merfeld"
-    info = "Full Stack Web Developer and Outdoor Enthusiast"
+    info = "full stack developer and outdoor enthusiast"
     description = "Reinhard Merfeld's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -60,10 +60,10 @@ disqusShortname = "yourdiscussshortname"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "blog"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "about"
     weight = 2
     url = "/about/"
