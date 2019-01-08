@@ -1,4 +1,4 @@
-baseURL = "http://merfeld.info/"
+baseURL = "https://merfeld.info/"
 title = "Reinhard Merfeld"
 theme = "hugo-coder"
 languagecode = "en"
@@ -11,7 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "reinhardmerfeld"
+disqusShortname = "merfeld"
 
 [params]
 
