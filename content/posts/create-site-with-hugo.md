@@ -1,4 +1,4 @@
-+++ 
++++
 date = "2019-01-08"
 title = "Create a Website with Hugo"
 slug = "creating-a-new-site"
