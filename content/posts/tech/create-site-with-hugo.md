@@ -7,6 +7,7 @@ categories = ["tech"]
 +++
 
 # Create a Website with Hugo
+
 [Hugo](https://gohugo.io) is a powerful static website generator with a bunch of nice [themes](https://themes.gohugo.io/). So why not start using it for your own website.
 
 ``` bash
@@ -24,6 +25,7 @@ cp -r themes/hugo-coder/exampleSite/* .
 ```
 
 Start hugo's build in server and check the site on http://localhost:1313
-```bash
+
+``` bash
 hugo server -D
 ```
