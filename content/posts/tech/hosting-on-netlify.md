@@ -1,6 +1,6 @@
 ---
 title: "Hosting on Netlify"
-description: ""
+description: "Beschreibung"
 date: 2019-01-16T13:59:32+01:00
 slug: "" 
 categories: ["tech"]

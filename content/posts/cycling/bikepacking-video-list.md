@@ -3,9 +3,9 @@ title: "Bikepacking Video List"
 description: ""
 date: 2019-01-16T13:57:54+01:00
 slug: "" 
-categories: ["cycling"]
+categories: []
 tags: []
-draft: true
+draft: false
 ---
 
 # Beautiful Bikepacking Videolist
@@ -14,4 +14,4 @@ draft: true
 
 - [Bikepacking Scotland 2016](https://vimeo.com/172697732) on Vimeo
 
-more will come soon
+more will come soon ...
