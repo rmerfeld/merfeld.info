@@ -23,10 +23,7 @@ disqusShortname = "merfeld"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
-
-    quote = "It always seems unpossible until it's done"
-    quote_author = "Nelson Mandela"
-
+    
     footercontent = ""
 
     hidecredits = false
@@ -36,6 +33,10 @@ disqusShortname = "merfeld"
 
     math = true
     custom_css = []
+
+[params.quote]
+    content = "It always seems unpossible until it's done"
+    author  = "Nelson Mandela"
 
 [[params.social]]
     name = "Github"
