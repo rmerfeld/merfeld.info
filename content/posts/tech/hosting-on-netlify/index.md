@@ -14,7 +14,7 @@ Netlify offers hosting and serverless backend services for static Websites.
 
 ## Use your own Domain
 
-![Gafik1](/images/posts/hosting-on-netlify/domain1.png)
-![Gafik2](/images/posts/hosting-on-netlify/domain2.png)
-![Gafik3](/images/posts/hosting-on-netlify/domain3.png)
+![Gafik1](domain1.png)
+![Gafik2](domain2.png)
+![Gafik3](domain3.png)
 
