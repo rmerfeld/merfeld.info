@@ -31,3 +31,7 @@ Start hugo's build in server and check the site on http://localhost:1313
 ``` bash
 hugo server -D
 ```
+
+For more Information about building websites with Hugo, you can have a look into Hugo's [Documentation](https://gohugo.io/documentation/) or start some nice tutorial on [Mike Dane's](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) youtube channel.
+
+{{< youtube qtIqKaDlqXo >}}

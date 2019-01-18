@@ -24,32 +24,26 @@ draft = false
 
 ## Summarize
 
-Take a look at the best DPI ranges from https://bjango.com/articles/macexternaldisplays/
-![](https://bjango.com/images/articles/macexternaldisplays/display-list.png)
+27“ WQHD (2560x1440)
 
-### 27“ WQHD (2560x1440)
+- [BenQ GW2765HT](https://www.benq.eu/de-de/monitor/home-office/gw2765ht.html) / [303€ - notebooksbilliger.de](https://www.notebooksbilliger.de/benq+gw2765ht)
 
-- BenQ GW2765HT / 303€
-https://www.notebooksbilliger.de/benq+gw2765ht
+- DELL U2715H / [409€ - notebooksbilliger.de](https://www.notebooksbilliger.de/dell+u2715h+)
 
-- DELL U2715H / 410€
-https://www.notebooksbilliger.de/dell+u2715h+
+- DELL U2717D / [399€ - notebooksbilliger.de](https://www.notebooksbilliger.de/dell+u2717d)
 
-- DELL U2717D / 399€
-https://www.notebooksbilliger.de/dell+u2717d
+- EIZO CS2730, CS270 / [1.063€ - notebooksbilliger.de](https://www.notebooksbilliger.de/eizo+coloredge+cs2730)
 
-- EIZO CS2730, CS270 / 1.063€
-https://www.notebooksbilliger.de/eizo+coloredge+cs2730
+- NEC EA275WMI-BK / [409€ BWare - notebooksbilliger.de](https://www.notebooksbilliger.de/nec+multisync+ea275wmi)
 
-- NEC EA275WMI-BK / 409€ BWare
-https://www.notebooksbilliger.de/nec+multisync+ea275wmi
+27” 5K (5120x2880)
 
-### 27” 5K (5120x2880)
-
-- DELL UP2715K (ausverkauft !)
+- DELL UP2715K
 
 - LG UltraFine 5K Display
 
-### 21.5” 4K (4096x2304)
+21.5” 4K (4096x2304)
 
 - LG UltraFine 4k Display
+
+{{< figure src="https://bjango.com/images/articles/macexternaldisplays/display-list.png" title="110ppi/220ppi zones indicated" >}}
