@@ -1,9 +1,11 @@
 +++
-date = "2019-01-08"
 title = "Create a Website with Hugo"
-slug = "creating-a-new-site"
-tags = ["web", "jamstack", "hugo"]
+description = ""
+date = "2019-01-08"
+slug = "" 
 categories = ["tech"]
+tags = ["web", "jamstack", "hugo"]
+draft = false
 +++
 
 # Create a Website with Hugo
