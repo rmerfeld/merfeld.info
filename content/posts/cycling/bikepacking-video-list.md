@@ -1,12 +1,12 @@
----
-title: "Bikepacking Video List"
-description: ""
-date: 2019-01-16T13:57:54+01:00
-slug: "" 
-categories: []
-tags: []
-draft: false
----
++++
+title = "Bikepacking Video List"
+description = ""
+date = 2019-01-16T13:57:54+01:00
+slug = ""
+categories = ["cycling"]
+tags = ["bikepacking"]
+draft = false
++++
 
 # Beautiful Bikepacking Videolist
 

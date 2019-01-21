@@ -1,12 +1,12 @@
----
-title: "Hosting on Netlify"
-description: "Beschreibung"
-date: 2019-01-16T13:59:32+01:00
-slug: "" 
-categories: ["tech"]
-tags: []
-draft: true
----
++++
+title = "Hosting on Netlify"
+description = ""
+date = "2019-01-08"
+slug = ""
+categories = ["tech"]
+tags = ["web", "jamstack", "hugo"]
+draft = true
++++
 
 # Hosting your Website on Netlify
 
