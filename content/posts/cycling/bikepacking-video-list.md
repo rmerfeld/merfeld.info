@@ -10,8 +10,8 @@ draft = false
 
 # Beautiful Bikepacking Videolist
 
-- [Hi Lo Cali](https://vimeo.com/255627840) on Vimeo - Three friends ride bicycles 192 miles through the California desert, from Badwater Basin to White Mt. Peak. Along the way they ascend over 24,000 vertical feet, and experience a 70 degrees shift in temperature.
+- *Hi Lo Cali* - Three friends ride bicycles 192 miles through the California desert, from Badwater Basin to White Mt. Peak. Along the way they ascend over 24,000 vertical feet, and experience a 70 degrees shift in temperature. {{< vimeo 255627840 >}}
 
-- [Bikepacking Scotland 2016](https://vimeo.com/172697732) on Vimeo
+- Bikepacking Scotland 2016 {{< vimeo 172697732 >}}
 
 more will come soon ...
