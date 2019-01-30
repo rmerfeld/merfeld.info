@@ -19,7 +19,7 @@ disqusShortname = "merfeld"
     info = "Full Stack Developer"
     description = "Reinhard Merfeld's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/m-logo.svg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
