@@ -1,5 +1,6 @@
 baseURL = "https://merfeld.info/"
-title = "Reinhard Merfeld"
+title = "Merfeld"
+
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -19,7 +20,7 @@ disqusShortname = "merfeld"
     info = "Full Stack Developer"
     description = "Reinhard Merfeld's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/m-logo.svg"
+    avatarurl = "/images/m-logo.svg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
@@ -33,6 +34,10 @@ disqusShortname = "merfeld"
 
     math = true
     custom_css = []
+
+[params.header]
+    image = "/images/m.svg"
+    size = 20
 
 [[params.social]]
     name = "Github"
