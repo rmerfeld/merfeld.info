@@ -62,10 +62,10 @@ disqusShortname = "merfeld"
 
 # Menu links
 [[menu.main]]
-    name = "BLOG"
+    name = "Blog"
     weight = 1
     url  = "/blog/"
 [[menu.main]]
-    name = "ABOUT"
+    name = "About"
     weight = 2
     url = "/about/"
