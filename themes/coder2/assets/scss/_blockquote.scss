@@ -1,0 +1,30 @@
+$background-color: hsl(50, 5, 97);
+$white: $background-color;
+
+blockquote {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  position: relative;
+  font-size: 0.8em;
+  line-height: 1.2em;
+
+  footer {
+    font-family: 'Noto Sans', sans-serif;
+    color: darken($white, 15%);
+    float: right;
+    &:before {
+      content: '\2015';  
+    }
+  }
+  &:after {
+    content: '\201D';
+    position: absolute;
+    top: 0.28em;
+    right: 0;
+    font-size: 6em;
+    font-style: italic;
+    color: darken($white, 7%);
+    z-index: -1;
+ }
+
+}

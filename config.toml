@@ -1,7 +1,7 @@
 baseURL = "https://merfeld.info/"
-title = "erfeld"
+title = "merfeld"
 
-theme = "hugo-coder"
+theme = "coder2"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
