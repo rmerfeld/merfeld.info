@@ -3,10 +3,10 @@
   command = "hugo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.53/extended"
+  HUGO_VERSION = "0.53"
 
 [context.deploy-preview]
   command = "hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.53/extended"
+  HUGO_VERSION = "0.53"
