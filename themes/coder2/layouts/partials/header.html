@@ -2,9 +2,9 @@
   <section class="container">
     <a class="navigation-title" href="{{ .Site.BaseURL | absLangURL }}">
       {{ if .Site.Params.Header }}
-      <img src="{{ .Site.Params.Header.Image }}" height="{{ .Site.Params.Header.Size }}" alt="">
+      <img class="hide-on-large" src="{{ .Site.Params.Header.Image }}" height="{{ .Site.Params.Header.Size }}" alt="">
       {{ end }}
-      {{ .Site.Title }}
+      <pre class="hide-on-small">{{ .Site.Title }}</pre>
     </a>
 
     <input type="checkbox" id="menu-toggle" />
