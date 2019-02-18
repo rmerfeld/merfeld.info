@@ -25,3 +25,5 @@ Netlify offers hosting and serverless backend services for static Websites.
 ![Grafik8](08-configure-provider.png)
 ![Grafik9](09-eigner-nameserver.png)
 ![Grafik10](10-dns-eintragen.png)
+
+# Mailentry DNS
