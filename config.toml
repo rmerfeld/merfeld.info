@@ -44,17 +44,17 @@ disqusShortname = "merfeld"
     name = "Instagram"
     icon = "fab fa-instagram fa-sm"
     weight = 2
-    url = "https://www.instagram.com/merfeld_/"
+    url = "https://www.instagram.com/merfeldo/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-sm"
     weight = 3
-    url = "https://twitter.com/merfeld_/"
+    url = "https://twitter.com/merfeldo/"
 [[params.social]]
     name = "Email"
     icon = "fas fa-envelope fa-sm"
     weight = 4
-    url = "mailto:reinhard@merfeld.info/"
+    url = "mailto:reinhard@merfeld.info"
 
 # Menu links
 [[menu.main]]
